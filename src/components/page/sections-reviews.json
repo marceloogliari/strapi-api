@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_sections_reviews",
+  "info": {
+    "displayName": "sectionsReviews",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
